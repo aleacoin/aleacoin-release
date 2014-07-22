@@ -1,0 +1,9 @@
+Building aleacoin
+
+See doc/readme-qt.rst for instructions on building aleacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of aleacoin.
+
+See doc/build-*.txt for instructions on building aleacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of aleacoin.
